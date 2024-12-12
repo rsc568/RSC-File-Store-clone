@@ -36,7 +36,7 @@ CDB_NAME = environ.get("CDB_NAME", "clonetechvj")
 
 # Database Information
 DB_URI = environ.get("DB_URI", "mongodb+srv://rscreations56:XSxUbPTMFWJbXBqU@cluster0.kss0i.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = environ.get("DB_NAME", "techvjbotz")
+DB_NAME = environ.get("DB_NAME", "rscmovies")
 
 # Auto Delete Information
 AUTO_DELETE_MODE = bool(environ.get('AUTO_DELETE_MODE', True)) # Set True or False
